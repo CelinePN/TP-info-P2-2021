@@ -1,5 +1,1 @@
-peux tu modifier ce que j'écris? <<<<<<< HEAD
-peux tu modifier ce que j'écris? 
-=======
 cc
->>>>>>> b8922d54f16cc36c7903b5acac7deaa9bf947b37
